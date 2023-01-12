@@ -1,0 +1,168 @@
+@font-face {
+    font-family: Fira-GO Regular;
+    src: url(..Font/FiraGO-Regular.ttf) format("ttf");
+  }
+body{
+font-family: Fira-GO Regular; 
+    background: #FDFDFD;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 419px    
+    width: 718px;
+    background: #FFFFFF;
+    border: 1px #F2F2F2;
+    border-radius: 10px;
+    padding-top: 40px;
+    padding-right: 51px;
+    padding-bottom: 63px;
+    padding-left: 51px; 
+}
+.Card { display: block;
+    width: 718px;
+    height: 419px;
+    left: 281px;
+    top: 172px;
+    margin-top: 80px;
+    margin-left: 281px;
+    margin-bottom:241px ;
+    margin-right:281px ;
+    border: 1.5px solid rgb(240, 240, 240);
+    border-radius: 10px; 
+    }
+    
+h1{
+    font-family: Fira-GO Regular
+    font-style: normal;
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 31.2px;
+    left: 328px;
+    top:218px;
+    color: #000000;
+    margin-top: 40px;
+    margin-bottom: 13px;
+    margin-left: 47px;
+}
+
+.input_item1{
+    font-family: Fira-GO Regular;
+    font-style:normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19.2px;
+    color: #000000;
+    left: 332px;
+    top: 268px;
+   width: 191px;
+    margin-top: 13px;
+    margin-left: 51px;
+    margin-bottom: 5px;
+}
+.input_subitem1{
+    font-family: Fira-GO Regular;
+    display:flex;
+    width: 550px ;
+    height:min-content;
+    background: #FFFFFF;
+    border: 1.5px solid #E5E5E5;
+    border-radius: 10px ;
+    
+}
+.input_subsubitem1{
+    font-family: Fira-GO Regular;
+    display: block;
+display: flex;
+border: 1px #FFFFFF;
+margin-top: 13.5px;
+margin-left: 15px;
+margin-bottom: 13.5px;
+margin-right: 407px;}
+.input_item2{ 
+    font-family: Fira-GO Regular;
+    font-style:normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19.2px;
+    color: #000000;
+    left: 332px;
+    top: 268px;
+   width: 191px;
+    margin-top: 13px;
+    margin-left: 51px;
+    margin-bottom: 5px;}
+    .input_subitem2{
+        font-family: Fira-GO Regular;
+        display:flex;
+        width: 550px ;
+        height:min-content;
+        background: #FFFFFF;
+        border: 1.5px solid #E5E5E5;
+        border-radius: 10px ;
+        
+    }
+    .input_subsubitem2{
+        font-family: Fira-GO Regular;
+        display: block;
+        display: flex;
+        border: 1px #FFFFFF;
+        margin-top: 13.5px;
+        margin-left: 15px;
+        margin-bottom: 13.5px;
+        margin-right: 407px;}
+  .input_1{
+     margin-bottom: 18px;
+   }
+  .input_2{
+ margin-bottom: 18px
+}
+.lostp1{
+    font-family: Fira-GO Regular;
+    margin-bottom: 28px;
+margin-left: 28px;}
+.lostp2{
+    font-family: Fira-GO Regular;
+    font-style:normal;
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 18px;
+    color: #0653AD;
+    margin-bottom: 44px;
+    margin-left: 28px;
+    margin-top: 13px;
+}
+.card_footer{
+    display: flex;
+    align-items:center
+    justify-content: space-between;
+}
+
+.footer_details span {
+    font-family: Fira-GO Regular;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 18px;
+margin-left: 51px;
+    color: #000000;
+}
+.footer_details a {
+    font-family: Fira-GO Regular;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 15;
+    line-height: 18px;
+    color: #0653AD;
+}
+.btn{
+    width: 205px;
+    height: 47px;
+    border: 1px solid transparent;
+    background: #ffdd04;
+    border-radius: 10px;
+    font-family: Fira-GO Regular;
+    font-style: normal;
+    font-weight: 750;
+    font-size: 20px;
+    line-height: 19px;
+margin-left: 90px;}
